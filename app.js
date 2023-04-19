@@ -92,6 +92,10 @@
 // const totalValue = store.reduce((acc, item) => acc + item.value * item.count, 0);
 // console.log(totalValue);
 //-----------------
-const numbers = [1, 2, 3, 4, 5, 6, 7];
-const numbers2 = numbers.slice(-4);
-console.log(numbers2)
+// const numbers = [1, 2, 3, 4, 5, 6, 7];
+// const numbers2 = numbers.slice(-4);
+
+// SPLICE 
+
+// const numbers = [1, 2, 3, 4];
+// const deleted = numbers.splice(2, 1);
