@@ -1,1 +1,1 @@
-# Array-Methods
+# Array-Methods and String Methods and Properties
