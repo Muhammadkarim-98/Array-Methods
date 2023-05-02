@@ -9,3 +9,5 @@ const str = 'code explain is code !';
 // console.log(str.substring(-11)) out: code explain is code! (we can see difference when indexStart is negative number)
 // console.log(str.slice(23)) out: '';
 // console.log(str.substring(23)) out: '';
+// console.log(str.split('e', 2)); out: ['cod', ' '];
+// console.log(str.includes('is')); out: true;
